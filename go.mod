@@ -1,6 +1,6 @@
-module leetcode-helper
+module algotop
 
-go 1.25.5
+go 1.25
 
 require fyne.io/fyne/v2 v2.7.2
 
