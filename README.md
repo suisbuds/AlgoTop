@@ -26,7 +26,7 @@
 ### 许可
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-red.svg)](LICENSE.md)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC--BY--SA--4.0-red.svg)](LICENSE.md)
 
 
 
